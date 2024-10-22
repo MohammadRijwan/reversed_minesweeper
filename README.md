@@ -82,5 +82,6 @@ The game ends when all bombs are either discovered or exploded.
 
 ![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/1.png)
 ![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/2.jpg)
-![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/3.jpg)
+![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/3.png)
 ![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/4.jpg)
+![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/5.jpg)
