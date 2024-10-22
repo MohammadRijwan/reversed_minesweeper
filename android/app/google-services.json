@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "517638528095",
+    "project_id": "minesweeper-1d35e",
+    "storage_bucket": "minesweeper-1d35e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517638528095:android:cd78e3c63d47cc469f4fea",
+        "android_client_info": {
+          "package_name": "revered.minesweeper.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517638528095-14jt2hc6kuceu0nuq8ggh86fuqmgkgfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuL5PCRWA0pL-8LufqvEknhVG5NI5aBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517638528095-14jt2hc6kuceu0nuq8ggh86fuqmgkgfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517638528095-a590dbvlo06rafhvq2pvrsrje6r1f0mt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "reversed.minesweeper.com.reveredMinesweeper"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517638528095:android:5eb6bd52ef412fdb9f4fea",
+        "android_client_info": {
+          "package_name": "reversed.minesweeper.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517638528095-ift9jro98ccce4ufj2ltcrlobfk37o2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "reversed.minesweeper.com",
+            "certificate_hash": "772afed256552d760d62d222285593a46c0ef15e"
+          }
+        },
+        {
+          "client_id": "517638528095-14jt2hc6kuceu0nuq8ggh86fuqmgkgfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuL5PCRWA0pL-8LufqvEknhVG5NI5aBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517638528095-14jt2hc6kuceu0nuq8ggh86fuqmgkgfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "517638528095-a590dbvlo06rafhvq2pvrsrje6r1f0mt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "reversed.minesweeper.com.reveredMinesweeper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
