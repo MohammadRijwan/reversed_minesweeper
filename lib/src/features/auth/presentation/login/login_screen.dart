@@ -27,7 +27,7 @@ class _LoginScreenState extends State<LoginScreen> {
               Align(
                 alignment: Alignment.center,
                 child: Text(
-                  'Welcome to Revered Minesweeper',
+                  'Welcome to Reversed Minesweeper',
                   style: TextStyle(
                     fontSize: 30,
                     color: Theme.of(context).primaryColor,
