@@ -77,3 +77,10 @@ Pieces can be dragged onto the grid squares.
 Tap on squares to discover bombs.
 The timer will count up, triggering random bomb explosions every 10 seconds.
 The game ends when all bombs are either discovered or exploded.
+
+## Screenshots
+
+![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/1.jpg)
+![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/2.jpg)
+![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/3.jpg)
+![App Screenshot](https://github.com/MohammadRijwan/reversed_minesweeper/blob/master/assets/screenshot/4.jpg)
