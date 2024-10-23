@@ -27,7 +27,7 @@ class AppRoute {
         },
         routes: <RouteBase>[
           getLoginRoute(),
-          getMinesweeperRoute(),
+          getGameRoute(),
           getFinalScreenRoute()
         ]);
   }
@@ -40,7 +40,7 @@ class AppRoute {
             const LoginScreen());
   }
 
-  static GoRoute getMinesweeperRoute() {
+  static GoRoute getGameRoute() {
     return GoRoute(
         path: GameScreen.route,
         name: GameScreen.route,
